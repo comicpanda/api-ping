@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "tapasmedia.co:api-tapastic-android"
+  }
+}
